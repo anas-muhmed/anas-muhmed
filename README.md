@@ -2,7 +2,7 @@
 **`Developer | Cloud Explorer | Fitness & Boxing Lover`**  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&width=500&lines=Building+Stuff+With+Code;Cloud+Enthusiast+☁️;Boxing+🥊+%7C+Gym+💪;Learning+Every+Day&center=true" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&width=500&lines=Building+Stuff+With+Code;Cloud+Enthusiast+☁️;Boxing+🥊+%7C+Gym+💪;Learning+Every+Day&center=true" alt="Typing Animation">
 </div>
 
 ---
@@ -16,7 +16,7 @@
 
 ### 🛠️ **Tech Stack**  
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,tailwind,react,nodejs,mongodb,aws,docker,git,figma&theme=light" alt="Skill Icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,html,css,tailwind,react,vite,nodejs,express,mongodb,aws,docker,git,github,vscode,postman,npm&theme=light" alt="Skill Icons">
 </div>
 
 ---
@@ -26,4 +26,4 @@
 
 ---
 
-> _"Code hard. Lift harder. Repeat. 🔁"_   
+> _"Code hard. Lift harder. Repeat. 🔁"_  
