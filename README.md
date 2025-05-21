@@ -1,8 +1,8 @@
 # 💻 Hey, I'm Muhammed Anas!  
 **`Developer | Cloud Explorer | Fitness & Boxing Lover`**  
 
-<<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&color=00FF00&width=550&lines=Day+One+⚡+or+One+Day+⏳;The+Choice+Is+Yours+✨;Code+Hard+💻+Fight+Harder+🥊;No+Retreat+🛡️+No+Surrender+🏴&center=true&repeat=true" alt="Motivational Typing">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=26&duration=3800&color=00D8FF&background=45FF9900&width=380&lines=ONE+DAY+✨+or+DAY+ONE+⚡&center=true&vCenter=true&repeat=true" alt="Day One Typing">
 </div>
 ---
 
