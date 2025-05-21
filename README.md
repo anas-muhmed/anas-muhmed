@@ -2,9 +2,8 @@
 **`Developer | Cloud Explorer | Fitness & Boxing Lover`**  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=26&duration=3800&color=00D8FF&background=45FF9900&width=380&lines=ONE+DAY+✨+or+DAY+ONE+⚡&center=true&vCenter=true&repeat=true" alt="Day One Typing">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=800&size=28&duration=3500&color=FF2400&background=FF000030&width=480&lines=ONE+DAY+🔥+or+DAY+ONE+⚔️;NO+RETREAT+🛡️+NO+SURRENDER+🏴&center=true&vCenter=true&repeat=true" alt="Warrior Typing">
 </div>
----
 
 ### 🚀 **About Me**  
 - 🌐 **Tech Focus**: MERN Stack + Cloud (AWS) + DevOps.  
