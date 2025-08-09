@@ -2,7 +2,7 @@
 **`Developer | Cloud Explorer | Fitness & Boxing `**  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=5000&pause=1000&color=FF00FF&width=500&lines=ONE+DAY+🤺+or+DAY+ONE+⚔️;&center=true&repeat=true" alt="Warrior Typing">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=5000&pause=1000&color=FF00FF&width=500&lines=ONE+COMMIT+AT+A+TIME+🤺;&center=true&repeat=true" alt="Warrior Typing">
 </div>
 
 ### 🚀 **About Me**  
