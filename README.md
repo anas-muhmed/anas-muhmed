@@ -1,61 +1,63 @@
-# 💻 Hey, I'm Anas!
+# Anas
 
-**`Full Stack Developer | Cloud & DevOps ☁️`**
+### Backend-focused Software Engineer · Cloud & Platform Engineering
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=5000&pause=1000&color=00C2FF&width=500&lines=Building+Scalable+Systems;Learning+Cloud+%26+DevOps;One+Commit+At+A+Time+🚀;&center=true&repeat=true" alt="Typing Animation">
-</div>
+I build backend systems and increasingly focus on the infrastructure around them: **deployment, automation, reliability, databases, observability, and cloud operations**.
 
----
+My current direction is straightforward: become the engineer who can understand an application, ship it reliably, operate it, and improve the platform underneath it.
 
-### 🚀 **About Me**
+## Engineering Focus
 
-<div align="center">
+- **Backend:** Node.js, Express, TypeScript, REST APIs, authentication, RBAC
+- **Cloud & Platform:** AWS, Docker, Docker Compose, Nginx, GitHub Actions, CI/CD
+- **Data:** PostgreSQL, MongoDB, Oracle, Prisma, Mongoose, database migrations
+- **Frontend when needed:** React, Next.js, Tailwind CSS
+- **Currently deepening:** Kubernetes, Terraform, OpenTelemetry, observability, SRE and platform engineering
 
-`🌐` **Tech Focus**
-MERN Stack • AWS • DevOps
+## Selected Engineering Work
 
-`📚` **Learning**
-Microservices • Serverless • System Design
+### [DevConnect](https://github.com/anas-muhmed/DevConnect)
+Production-oriented developer community platform with a React + Express architecture, JWT access/refresh authentication, AWS S3 image storage, Docker, Nginx, EC2 deployment and GitHub Actions CI/CD.
 
-</div>
+`Node.js` `Express` `MongoDB` `AWS` `Docker` `Nginx` `GitHub Actions`
 
----
+### [BuildWise](https://github.com/anas-muhmed/BuildWise)
+AI-powered system-design learning platform with structured AI response validation, usage observability, RBAC, Docker Compose, Nginx/SSL and automated VPS deployment.
 
-### 🌐 **Featured Projects**
+`Next.js` `TypeScript` `MongoDB` `Docker` `Nginx` `CI/CD` `OpenAI API`
 
-<div align="center">
+### [CommitEase](https://github.com/anas-muhmed/CommitEase)
+Multi-tenant contribution-management SaaS focused on auditable financial workflows, role-based operations, due calculation and reliable data modelling.
 
-🔗 **BuildWise**
-https://buildwise-dev.me/
+`TypeScript` `Node.js` `PostgreSQL` `Prisma` `SaaS` `Audit Logging`
 
-🔗 **DevConnect**
-https://devconnectsapp.tech/login
+## What I Care About
 
-</div>
+```text
+Application code
+      ↓
+Containerization
+      ↓
+CI/CD
+      ↓
+Cloud infrastructure
+      ↓
+Observability + reliability
+      ↓
+A system that can actually be operated
+```
 
----
+I am especially interested in work where **software engineering meets cloud infrastructure**: backend services, platform engineering, DevOps, SRE and cloud operations.
 
-### 🛠️ **Tech Stack**
+## Current Learning / Build Direction
 
-<div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,html,css,tailwind,react,vite,nodejs,express,mongodb,aws,docker,git,github,vscode,postman,npm&theme=light" alt="Skill Icons">
-</div>
+- Kubernetes workloads and deployment patterns
+- Infrastructure as Code with Terraform
+- OpenTelemetry metrics, logs and traces
+- Reliability engineering, incident analysis and SLO thinking
+- Cloud architecture and AWS operations
+- Automation that removes repetitive engineering work
 
----
+## Connect
 
-### 📬 **Let's Connect**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/anas-muhmed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/anazz.7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40">
-  </a>
-</div>
-
----
-
-> *"Consistency builds everything."*
+[LinkedIn](https://www.linkedin.com/in/anas-muhmed) · [GitHub](https://github.com/anas-muhmed)
