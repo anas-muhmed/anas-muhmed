@@ -2,9 +2,11 @@
 
 ### Backend-focused Software Engineer · Cloud & Platform Engineering
 
-I build backend systems and increasingly focus on the infrastructure around them: **deployment, automation, reliability, databases, observability, and cloud operations**.
+I build workflow applications, APIs, and deployment pipelines. At Camerin Innovate, I co-built ZoeConnect, a platform used by 10+ hospital clients.
 
-My current direction is straightforward: become the engineer who can understand an application, ship it reliably, operate it, and improve the platform underneath it.
+- **Hospital workflow:** [ZoeConnect case study](https://www.anasdev.software/work/zoeconnect) · Drug Indenting, from request approval to partial stock receipt.
+- **AWS delivery:** [DevConnect CI/CD workflow](https://github.com/anas-muhmed/DevConnect/blob/main/.github/workflows/deploy.yml) · Backend tests, Docker images, Amazon ECR and EC2.
+- **VPS delivery:** [BuildWise deployment workflow](https://github.com/anas-muhmed/BuildWise/blob/master/.github/workflows/deploy.yml) · Next.js build validation and Docker Compose on DigitalOcean.
 
 ## Engineering Focus
 
@@ -31,24 +33,6 @@ Multi-tenant contribution-management SaaS focused on auditable financial workflo
 
 `TypeScript` `Node.js` `PostgreSQL` `Prisma` `SaaS` `Audit Logging`
 
-## What I Care About
-
-```text
-Application code
-      ↓
-Containerization
-      ↓
-CI/CD
-      ↓
-Cloud infrastructure
-      ↓
-Observability + reliability
-      ↓
-A system that can actually be operated
-```
-
-I am especially interested in work where **software engineering meets cloud infrastructure**: backend services, platform engineering, DevOps, SRE and cloud operations.
-
 ## Current Learning / Build Direction
 
 - Kubernetes workloads and deployment patterns
@@ -60,4 +44,4 @@ I am especially interested in work where **software engineering meets cloud infr
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/anas-muhmed) · [GitHub](https://github.com/anas-muhmed)
+[LinkedIn](https://www.linkedin.com/in/anas-muhmed) · [Portfolio](https://www.anasdev.software/)
