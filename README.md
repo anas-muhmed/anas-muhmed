@@ -4,6 +4,8 @@
 
 I build workflow applications, APIs, and deployment pipelines. At Camerin Innovate, I co-built ZoeConnect, a platform used by 10+ hospital clients.
 
+**[Try the pharmacy workflow →](https://www.anasdev.software/#demo)** Record the final delivery in a sample order and see what changes.
+
 - **Hospital workflow:** [ZoeConnect case study](https://www.anasdev.software/work/zoeconnect) · Drug Indenting, from request approval to partial stock receipt.
 - **AWS delivery:** [DevConnect CI/CD workflow](https://github.com/anas-muhmed/DevConnect/blob/main/.github/workflows/deploy.yml) · Backend tests, Docker images, Amazon ECR and EC2.
 - **VPS delivery:** [BuildWise deployment workflow](https://github.com/anas-muhmed/BuildWise/blob/master/.github/workflows/deploy.yml) · Next.js build validation and Docker Compose on DigitalOcean.
